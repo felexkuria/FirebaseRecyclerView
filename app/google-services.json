@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "737208914742",
+    "firebase_url": "https://fir-recyclerview-fb4d9.firebaseio.com",
+    "project_id": "fir-recyclerview-fb4d9",
+    "storage_bucket": "fir-recyclerview-fb4d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737208914742:android:f038ff8de91c3cb3",
+        "android_client_info": {
+          "package_name": "com.umbrellatechnologies.firebaserecyclerview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737208914742-tg1jp3nv1ih81uul7fc1baga7rsmldnl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYJZ5mZGj3Un3hmjsjvYX9-yylXQKlFjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737208914742-tg1jp3nv1ih81uul7fc1baga7rsmldnl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

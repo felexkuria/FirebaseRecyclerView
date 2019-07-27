@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirebaseRecyclerView</string>
+    <string name="Title">Sample Title</string>
+    <string name="MORE">More</string>
+</resources>
